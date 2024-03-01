@@ -1,0 +1,10 @@
+main helps the identify main section of the page (good for SEO and make code easier to read)
+HTML attributes are special words used inside the opening tag of an element to control the element's behavior.
+Before adding any new content, you should make use of a section element to separate the cat photos content from the future content.
+The figure element represents self-contained content and will allow you to associate an image with a caption.
+The action attribute indicates where form data should be sent. For example, <form action="/submit-url"></form> tells the browser that the form data should be sent to the path /submit-url.
+In order for a form's data to be accessed by the location specified in the action attribute, you must give the text field a name attribute and assign it a value to represent the data being submitted.
+The default behavior of clicking a form button without any attributes submits the form to the location specified in the form's action attribute.
+
+unorther list (ul)
+list item (li)
